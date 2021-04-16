@@ -484,6 +484,10 @@ mark,
   max-width: 80%;
   height: auto;
 }
+.img-fluid-30 {
+  max-width: 30%;
+  height: auto;
+}
 
 .img-thumbnail {
   padding: 0.25rem;
